@@ -14,13 +14,10 @@ The application is built using Spring Boot and consists of several layers:
 - `Controller`: Handles incoming requests and maps them to the appropriate service methods
 - `Service`: Contains the business logic for managing files and sending notifications
 - `Repository`: Provides an abstraction for interacting with Google Cloud Storage
-- `Messaging`: Provides an abstraction for interacting with Google Cloud Messaging
 - `Entity`: Contains the entity classes for the application
 - `DTO`: Contains the DTO classes for the application
 - `Mapper`: Provides an abstraction for mapping between entity and DTO classes
 - `Exception`: Contains the exception classes for the application
-- `Configuration`: Contains the configuration classes for the application
-- `Util`: Contains utility classes for the application
 
 ## Database
 
