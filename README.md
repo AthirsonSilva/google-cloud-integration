@@ -62,4 +62,4 @@ Contributions are welcome! Just fork the project and make a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.## Usage
+This project is licensed under the MIT License. See the LICENSE file for details.
